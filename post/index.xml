@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Introduction to IP Development</title>
+    <link>https://masterudia.github.io/post/</link>
+    <description>Recent content in Posts on Introduction to IP Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2016 11:02:31 -0500</lastBuildDate>
+    <atom:link href="https://masterudia.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Incoming Academy</title>
+      <link>https://masterudia.github.io/post/WhatToExpect/</link>
+      <pubDate>Mon, 24 Oct 2016 11:02:31 -0500</pubDate>
+      
+      <guid>https://masterudia.github.io/post/WhatToExpect/</guid>
+      <description>
+
+&lt;h1 id=&#34;introduction-to-ip-dev:fd272732eb782ad349ab9255b4e4de99&#34;&gt;Introduction to IP Dev:&lt;/h1&gt;
+
+&lt;h2 id=&#34;what-to-expect:fd272732eb782ad349ab9255b4e4de99&#34;&gt;What to expect&amp;hellip;&lt;/h2&gt;
+
+&lt;p&gt;When first reading the name IP Development, you may (like me) at first be confused by the name and wonder what the rotation might entail. Soon after realizing that the rotation is mostly concerned with programming, software tools, and different development methodologies, the thought occurs- is this all about programming (EEK!)?  You need not worry. This rotation is catered to its participants and the overall goal of the rotation is not to try to be a coding boot camp. Instead, you will learn about the tools, programming languages, and methodologies used by Forsythe to deliver cutting edge IT solutions.&lt;/p&gt;
+
+&lt;p&gt;Have you heard about virtualization or Hybrid Cloud? Any ideas on what a container is? Have you installed a distribution of Linux?  If you answered yes to any of these questions- &lt;strong&gt;GREAT&lt;/strong&gt;! If not- &lt;strong&gt;GREAT&lt;/strong&gt;! Expect to leave this rotation with having a firm and solid understanding of how Forsythe delivers cutting edge IT Solutions across the spectrum of the broad IT spectrum (You can click the slide to see it in larger format).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://masterudia.github.io/Slide.jpg&#34;&gt;&lt;img src=&#34;https://masterudia.github.io/Slide.jpg&#34; alt=&#34;Image of IT Evolving Slide&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After analyzing this slide you should have come to the realization that maybe your knowledge of the IT spectrum may be lacking. If you are like me, you will enter into this rotation with more questions than answers, and that is in fact encouraged (ASK QUESTIONS!) The end goal of this rotation is that you may be able to speak intelligently to this slide and explain how it applies to Forsythe’s practices.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, the goal of the rotation is to walk away with a true understanding of how IT is evolving and how development plays a major role (DevOps).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
